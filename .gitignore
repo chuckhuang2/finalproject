@@ -1,0 +1,11 @@
+# 阻擋龐大的感測器與標籤原始數據上傳至 GitHub 倉庫
+motion/
+heart_rate/
+steps/
+labels/
+
+# 阻擋 Python 自動產生的快取資料夾
+__pycache__/
+*.pyc
+.VSCodeCounter/
+.vscode/
