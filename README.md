@@ -63,7 +63,10 @@ finalproject/
 本專案之理論架構、實驗設計與臨床數據，均嚴謹引用並遵循以下開源文獻規範：
 
 1. **原創論文**: Walch, O., Huang, Y., Forger, D., & Goldstein, C. (2019). Baseline performance of an open-source sleep staging algorithm from wrist-worn accelerometer and heart rate clusters. *Sleep*, 42(11), zsz180. 
-   - 📄 [期刊論文官方連結 (Oxford Academic)](https://academic.oup.com/sleep/article/42/11/zsz180/5552345)
+   - 📄 [期刊論文 (Oxford Academic)]
+   ```
+   Walch O, Huang Y, Forger D, Goldstein C. Sleep stage prediction with raw acceleration and photoplethysmography heart rate data derived from a consumer wearable device. Sleep. 2019 Dec 24;42(12):zsz180. doi:    10.1093/sleep/zsz180. PMID: 31579900; PMCID: PMC6930135.
+   ```
 2. **官方開源儲存庫**: Olivia Walch 教授團隊原始開源項目 `sleep_classifiers` 
    - 💻 [GitHub 原始碼倉庫連結](https://github.com/ojwalch/sleep_classifiers)
 3. **數據集來源**: 本專案採用的 31 位受試者手錶感測器訊號與 PSG 黃金標準標籤，均合法下載自上述論文所提供之公開學術研究資料集。
